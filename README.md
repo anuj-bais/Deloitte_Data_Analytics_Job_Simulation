@@ -72,11 +72,11 @@ Classify employee equality scores into meaningful categories.
 
 ## Tableau Dashboard
 
-*(Insert Tableau Dashboard Screenshot)*
+<img src="images/Tableau_task_SS.png" width="900">
 
 ## Excel Classification
 
-*(Insert Excel Screenshot)*
+<img src="images/Excel_task_SS.png" width="900">
 
 ---
 
@@ -106,6 +106,8 @@ Classify employee equality scores into meaningful categories.
 # 📜 Certificate
 
 Completed the **Deloitte Australia Data Analytics Job Simulation** on **Forage**, gaining practical experience in **Data Analysis** and **Forensic Technology**. :contentReference[oaicite:0]{index=0}
+
+<img src="images/Certificate.jpg" width="700">
 
 ---
 
