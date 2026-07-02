@@ -1,7 +1,7 @@
 # Deloitte_Data_Analytics_Job_Simulation
-> Practical Data Analytics Job Simulation completed through Forage in collaboration with Deloitte Australia.
+Practical Data Analytics Job Simulation completed through Forage in collaboration with Deloitte Australia.
 
-Completed Deloitte Australia Data Analytics Job Simulation using Tableau and Microsoft Excel to analyze data, build dashboards, classify equality scores, and derive business insights.
+> Completed Deloitte Australia Data Analytics Job Simulation using Tableau and Microsoft Excel to analyze data, build dashboards, classify equality scores, and derive business insights.
 
 
 ## 📖 Overview
