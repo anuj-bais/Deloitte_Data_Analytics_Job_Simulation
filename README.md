@@ -105,7 +105,7 @@ Classify employee equality scores into meaningful categories.
 
 # 📜 Certificate
 
-Completed the **Deloitte Australia Data Analytics Job Simulation** on **Forage**, gaining practical experience in **Data Analysis** and **Forensic Technology**. :contentReference[oaicite:0]{index=0}
+Completed the **Deloitte Australia Data Analytics Job Simulation** on **Forage**, gaining practical experience in **Data Analysis** and **Forensic Technology**.
 
 <img src="images/Certificate.jpg" width="700">
 
@@ -114,11 +114,5 @@ Completed the **Deloitte Australia Data Analytics Job Simulation** on **Forage**
 # 👨‍💻 Author
 
 **Anuj Bais**
-
-B.Tech Computer Engineering Student
-
-- 💻 Software Development
-- 📊 Data Analytics
-- 📈 Business Intelligence
 
 ⭐ If you found this repository useful, consider giving it a star!
